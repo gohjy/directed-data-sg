@@ -1,0 +1,19 @@
+{
+    "cna": "https://channelnewsasia.com",
+    "str": "https://straitstimes.com",
+    "straitstimes": "https://straitstimes.com",
+
+    "lta": "https://lta.gov.sg",
+    "govsg": "https://www.gov.sg",
+    "scams": "https://scamshield.gov.sg",
+    "scamshield": "https://scamshield.gov.sg",
+    "scam": "https://scamshield.gov.sg",
+    "spf": "https://police.gov.sg",
+    "police": "https://police.gov.sg",
+    "ndp": "https://ndp.gov.sg",
+    "eld": "https://eld.gov.sg",
+    "election": "https://eld.gov.sg",
+    "elections": "https://eld.gov.sg",
+    "mof": "https://mof.gov.sg",
+    "moh": "https://moh.gov.sg"
+}
