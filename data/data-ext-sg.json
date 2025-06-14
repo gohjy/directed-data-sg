@@ -5,15 +5,17 @@
 
     "lta": "https://lta.gov.sg",
     "govsg": "https://www.gov.sg",
-    "scams": "https://scamshield.gov.sg",
     "scamshield": "https://scamshield.gov.sg",
-    "scam": "https://scamshield.gov.sg",
     "spf": "https://police.gov.sg",
     "police": "https://police.gov.sg",
     "ndp": "https://ndp.gov.sg",
     "eld": "https://eld.gov.sg",
-    "election": "https://eld.gov.sg",
-    "elections": "https://eld.gov.sg",
     "mof": "https://mof.gov.sg",
-    "moh": "https://moh.gov.sg"
+    "moh": "https://moh.gov.sg",
+
+    "cdcv": "https://go.gov.sg/cdcv",
+    "cdcvouchers": "https://go.gov.sg/cdcv",
+    "redeem": "https://redeem.gov.sg",
+    "redeemsg": "https://redeem.gov.sg",
+    "vouchers": "https://redeem.gov.sg"
 }
