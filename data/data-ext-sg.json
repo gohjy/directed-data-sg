@@ -1,21 +1,26 @@
 {
-    "cna": "https://channelnewsasia.com",
-    "str": "https://straitstimes.com",
-    "straitstimes": "https://straitstimes.com",
+    "name": "sg",
+    "url": "https://gohjy.github.io/directed-data-sg/data-ext-sg.json",
+    "description": "Extension dataset for the Directed service, with Singapore-localised links. Made by 11gohjy.",
+    "links": {
+        "cna": "https://channelnewsasia.com",
+        "str": "https://straitstimes.com",
+        "straitstimes": "https://straitstimes.com",
 
-    "lta": "https://lta.gov.sg",
-    "govsg": "https://www.gov.sg",
-    "scamshield": "https://scamshield.gov.sg",
-    "spf": "https://police.gov.sg",
-    "police": "https://police.gov.sg",
-    "ndp": "https://ndp.gov.sg",
-    "eld": "https://eld.gov.sg",
-    "mof": "https://mof.gov.sg",
-    "moh": "https://moh.gov.sg",
+        "lta": "https://lta.gov.sg",
+        "govsg": "https://www.gov.sg",
+        "scamshield": "https://scamshield.gov.sg",
+        "spf": "https://police.gov.sg",
+        "police": "https://police.gov.sg",
+        "ndp": "https://ndp.gov.sg",
+        "eld": "https://eld.gov.sg",
+        "mof": "https://mof.gov.sg",
+        "moh": "https://moh.gov.sg",
 
-    "cdcv": "https://go.gov.sg/cdcv",
-    "cdcvouchers": "https://go.gov.sg/cdcv",
-    "redeem": "https://redeem.gov.sg",
-    "redeemsg": "https://redeem.gov.sg",
-    "vouchers": "https://redeem.gov.sg"
+        "cdcv": "https://go.gov.sg/cdcv",
+        "cdcvouchers": "https://go.gov.sg/cdcv",
+        "redeem": "https://redeem.gov.sg",
+        "redeemsg": "https://redeem.gov.sg",
+        "vouchers": "https://redeem.gov.sg"
+    }
 }
